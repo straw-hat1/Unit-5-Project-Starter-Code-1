@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color:#B22222;
+    text-align: center;
+  color:white;
+}
+
+img {
+    width: 400px;
+}
+input {
+  display:block;
+  margin-left:37%;
+}
